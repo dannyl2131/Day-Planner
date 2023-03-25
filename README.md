@@ -10,8 +10,8 @@ Any saved to-dos will stay on your local machine so you're able to access them i
 
 ## Color coding
 
-Gray - This activity is in the past
-Red - This activity is in the current hour
+Gray - This activity is in the past\
+Red - This activity is in the current hour\
 Green - This activity is in the future
 
 ![image](https://user-images.githubusercontent.com/67337458/227737620-b4dcded0-9bd0-4537-9ad5-fcd619ee50c6.png)
